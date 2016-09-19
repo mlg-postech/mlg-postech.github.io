@@ -4,10 +4,10 @@
     <title>Reading Group</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>https://mlg-postech.github.io//</link>
-    <atom:link href="https://mlg-postech.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 23:59:01 +0900</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 23:59:01 +0900</lastBuildDate>
+    <link>https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//</link>
+    <atom:link href="https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Sep 2016 00:02:22 +0900</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 00:02:22 +0900</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -80,7 +80,7 @@
 
 &lt;h3 id=&quot;image&quot;&gt;Image:&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;//assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mlg-postech.github.io/reading-group//assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;table&quot;&gt;Table:&lt;/h3&gt;
 
@@ -126,8 +126,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 03 Jul 2016 00:00:00 +0900</pubDate>
-        <link>https://mlg-postech.github.io//reading-group/jekyll/2016/07/03/styles-for-simple.html</link>
-        <guid isPermaLink="true">https://mlg-postech.github.io//reading-group/jekyll/2016/07/03/styles-for-simple.html</guid>
+        <link>https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//reading-group/jekyll/2016/07/03/styles-for-simple.html</link>
+        <guid isPermaLink="true">https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//reading-group/jekyll/2016/07/03/styles-for-simple.html</guid>
         
         
         <category>reading-group</category>
@@ -206,7 +206,7 @@
 
 &lt;h3 id=&quot;image&quot;&gt;Image:&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;//assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://mlg-postech.github.io/reading-group//assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;table&quot;&gt;Table:&lt;/h3&gt;
 
@@ -252,8 +252,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 03 Jul 2016 00:00:00 +0900</pubDate>
-        <link>https://mlg-postech.github.io//jekyll/2016/07/03/styles-for-simple.html</link>
-        <guid isPermaLink="true">https://mlg-postech.github.io//jekyll/2016/07/03/styles-for-simple.html</guid>
+        <link>https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//jekyll/2016/07/03/styles-for-simple.html</link>
+        <guid isPermaLink="true">https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//jekyll/2016/07/03/styles-for-simple.html</guid>
         
         
         <category>jekyll</category>
@@ -294,8 +294,8 @@
 
 </description>
         <pubDate>Sun, 19 Jun 2016 22:06:26 +0900</pubDate>
-        <link>https://mlg-postech.github.io//reading-group/jekyll/2016/06/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://mlg-postech.github.io//reading-group/jekyll/2016/06/19/welcome-to-jekyll.html</guid>
+        <link>https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//reading-group/jekyll/2016/06/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//reading-group/jekyll/2016/06/19/welcome-to-jekyll.html</guid>
         
         
         <category>reading-group</category>
@@ -338,8 +338,8 @@
 
 </description>
         <pubDate>Sun, 19 Jun 2016 22:06:26 +0900</pubDate>
-        <link>https://mlg-postech.github.io//jekyll/2016/06/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://mlg-postech.github.io//jekyll/2016/06/19/welcome-to-jekyll.html</guid>
+        <link>https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//jekyll/2016/06/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://mlg-postech.github.iohttps://mlg-postech.github.io/reading-group//jekyll/2016/06/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
