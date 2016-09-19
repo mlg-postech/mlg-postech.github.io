@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Reading Group</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://wildflame.me/jekyll-simple/</link>
-    <atom:link href="http://wildflame.me/jekyll-simple/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 23:31:09 +0900</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 23:31:09 +0900</lastBuildDate>
+    <link>http://mlg-postech.github.io/reading-group/</link>
+    <atom:link href="http://mlg-postech.github.io/reading-group/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Sep 2016 23:37:11 +0900</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 23:37:11 +0900</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -80,7 +80,7 @@
 
 &lt;h3 id=&quot;image&quot;&gt;Image:&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jekyll-simple/assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/reading-group/assets/img/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;table&quot;&gt;Table:&lt;/h3&gt;
 
@@ -126,8 +126,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 03 Jul 2016 00:00:00 +0900</pubDate>
-        <link>http://wildflame.me/jekyll-simple/jekyll/2016/07/03/styles-for-simple.html</link>
-        <guid isPermaLink="true">http://wildflame.me/jekyll-simple/jekyll/2016/07/03/styles-for-simple.html</guid>
+        <link>http://mlg-postech.github.io/reading-group/jekyll/2016/07/03/styles-for-simple.html</link>
+        <guid isPermaLink="true">http://mlg-postech.github.io/reading-group/jekyll/2016/07/03/styles-for-simple.html</guid>
         
         
         <category>jekyll</category>
@@ -168,8 +168,8 @@
 
 </description>
         <pubDate>Sun, 19 Jun 2016 22:06:26 +0900</pubDate>
-        <link>http://wildflame.me/jekyll-simple/jekyll/2016/06/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://wildflame.me/jekyll-simple/jekyll/2016/06/19/welcome-to-jekyll.html</guid>
+        <link>http://mlg-postech.github.io/reading-group/jekyll/2016/06/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://mlg-postech.github.io/reading-group/jekyll/2016/06/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
