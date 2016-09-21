@@ -16,7 +16,7 @@ title: Archive
     {% for post in category.last %}
 
     <div class="post_title">
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       <span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
     </div>
 
@@ -27,7 +27,6 @@ title: Archive
   </section>
 
   <footer class="article-footer" mar>
-    {% include author.html %}
   </footer>
 </div>
 
