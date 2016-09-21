@@ -2,6 +2,7 @@
 layout: post
 title: Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing. Deep Kernel Learning. In AISTATS, 2016 
 category: Saehoon
+author_footer: saehoon.html
 ---
 
 * [Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing. Deep Kernel Learning. In AISTATS, 2016](https://arxiv.org/abs/1511.02222)
